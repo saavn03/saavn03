@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm SaAvN..!!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3 align="center">A passionate frontend developer and Ml enthusiast from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3 align="center">A passionate E&TC Engineering student, frontend developer and Ml enthusiast from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saavn03&label=Profile%20views&color=0e75b6&style=flat" alt="saavn03" /> </p>
 
